@@ -6,7 +6,7 @@
 **Link**
 [github](https://github.com/)
 
-**Table**
+**To create a table**
 
 NAME|BRANCH|COLLEGE 
 ----|------|------- 
