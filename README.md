@@ -7,10 +7,11 @@
 [github](https://github.com/)
 
 **Table**
-|NAME|BRANCH|COLLEGE| 
-|----|------|-------| 
-|abc|cse|vrsec| 
-|gef|cse|vrsec| 
+
+NAME|BRANCH|COLLEGE 
+----|------|------- 
+abc|cse|vrsec 
+gef|cse|vrsec 
 
 **Code**
 ```
